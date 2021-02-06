@@ -5,7 +5,7 @@ import csv
 import os
 
 #input your directory here
-directory = 'E:\Downloads'
+directory = 'D:\1'
 
 for filename in os.listdir(directory):
     if filename.endswith(".csv"): 
